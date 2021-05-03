@@ -6,7 +6,7 @@ checkBoxes()
 
 function checkBoxes(){
     const triggerBottom = window.innerHeight / 5 * 4
-    console.log(triggerBottom)
+    
 
 
     boxes.forEach(box => {
